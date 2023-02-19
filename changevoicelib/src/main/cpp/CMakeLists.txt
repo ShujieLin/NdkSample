@@ -49,4 +49,4 @@ target_link_libraries( # Specifies the target library.
         # included in the NDK.
         log #自动查找指定的库，链接到lbndksample.so里面去
         fmod
-        fomdL)
+        fmodL)

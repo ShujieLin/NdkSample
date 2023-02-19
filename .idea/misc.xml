@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_change_voice.xml" value="0.10326086956521739" />
+        <entry key="changevoicelib/src/main/res/layout/activity_change_voice.xml" value="0.215625" />
       </map>
     </option>
   </component>

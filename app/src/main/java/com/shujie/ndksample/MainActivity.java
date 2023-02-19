@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
     private String name = "testNdk";
     private static int age = 28;
 
+    /*public native String dynamicJavaMethod();*/
+
+
     /**
      * 通过jni修改java的变量
      */
@@ -57,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         /*test1();*/
         test2();
-        startActivity(new Intent(this,ChangeVoiceActivity.class));
     }
 
     private void test1() {
