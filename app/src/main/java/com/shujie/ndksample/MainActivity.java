@@ -20,8 +20,6 @@ public class MainActivity extends AppCompatActivity {
     private String name = "testNdk";
     private static int age = 28;
 
-    /*public native String dynamicJavaMethod();*/
-
 
     /**
      * 通过jni修改java的变量
